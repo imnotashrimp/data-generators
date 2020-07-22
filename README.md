@@ -2,9 +2,10 @@
 
 A collection of places around the internet you can get real-looking fake data.
 
-## Contributing
-
-If you want to contribute a source, please open an issue or create a pull request.
+**Contributing**:
+If you want to contribute a source,
+please [open an issue](https://github.com/imnotashrimp/sample-data-sources/issues/new)
+or create a pull request.
 
 ## The collection
 
