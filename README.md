@@ -1,4 +1,4 @@
-# data-generators
+# Sample Data Sources
 
 A collection of places around the internet you can get real-looking fake data.
 
