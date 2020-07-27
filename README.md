@@ -11,6 +11,7 @@ or create a pull request.
 
 | Site | Description | Data types |
 |---|---|---|
+| [Fake Name Generator](https://www.fakenamegenerator.com/) | Fake identities, including name, address, birthday, and email. | Identities |
 | [Get Credit Card Numbers](https://www.getcreditcardnumbers.com/) | Fake credit card numbers that will pass validation, but can't actually be charged. | Credit card numbers |
 | [mockaroo](https://www.mockaroo.com/) | Lets you make fake data sets and export or access through API. | Various |
 | [generatedata.com](https://www.generatedata.com/) | Lets you generate data :) | Various |
