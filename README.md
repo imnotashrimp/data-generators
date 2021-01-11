@@ -20,6 +20,6 @@ or create a pull request.
 | [this person does not exist](https://thispersondoesnotexist.com/) | AI-generated profile photos for people who don't exist. | Profile photos |
 | [Generated Photos](https://generated.photos/faces) | AI-generated photos. | Profile photos |
 | [Unsplash](https://unsplash.com/) | Free stock images. | Photos |
-| [PhoneGenerator](https://phonegenerator.net/) | Fake phone numbers generator. | Various |
+| [PhoneGenerator](https://phonegenerator.net/) | Fake phone numbers generator. | Phone numbers |
 
 ![This project is licensed under CC-BY-SA-4.0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg)
